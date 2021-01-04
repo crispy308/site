@@ -1,0 +1,47 @@
+.location__up {
+    margin-bottom: 56px;
+}
+
+.stories {
+    margin-bottom: 270px;
+}
+
+.stories__img {
+    max-width: 260px;
+    max-height: 220px;
+    overflow: hidden;
+
+    margin-bottom: 15px;
+}
+
+.stories__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stories__item h2 {
+    font-size: 19px;
+    margin-bottom: 15px;
+    
+}
+
+.stories__item p {
+    font-size: 15px;
+    color: #7D7987;
+    margin-bottom: 25px;
+}
+
+.section__button {
+    color: #FB8F1D;
+    font-size: 15px;
+    background-color: transparent;
+    cursor: pointer;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.stories__title {
+    max-width: 250px;
+}

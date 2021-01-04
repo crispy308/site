@@ -1,0 +1,17 @@
+.stories h2 {
+  margin-bottom: 55px;
+}
+
+.stories__up {
+  display: flex;
+}
+
+.stories__inner {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.stories__img {
+  transform: scale(1.2);
+}

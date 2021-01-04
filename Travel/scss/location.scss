@@ -1,0 +1,38 @@
+.location {
+    width: 100%;
+    margin-bottom: 200px;
+}
+
+.location h2 {
+    margin-bottom: 55px;
+}
+
+.location__up {
+    display: flex;
+    justify-content: space-between;
+
+    a {
+        position: relative;
+        left: -110px;
+        text-decoration: 0;
+        color: #FB8F1D;
+        font-size: 17px;
+    }
+}
+
+.location__inner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.location__item {
+    margin-right: 50px;
+}
+
+.location__img {
+    transition: .7s;
+
+    &:hover {
+        transform: scale(1.05);
+    }
+}

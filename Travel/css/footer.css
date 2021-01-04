@@ -1,0 +1,11 @@
+.footer {
+  background-color: #F9F9FB;
+}
+
+.footer__logo {
+  margin-bottom: 25px;
+}
+
+.footer__left {
+  width: 400px;
+}

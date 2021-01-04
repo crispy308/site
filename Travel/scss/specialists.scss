@@ -1,0 +1,42 @@
+.specialists {
+    margin-bottom: 215px;
+}
+
+.specialists__up h2 {
+    margin-bottom: 145px;
+}
+
+.rating > span:hover:before {
+    content: "\2605";
+    position: absolute;
+    color: rgb(245, 245, 98);
+    
+ }
+
+ .rating {
+    margin-bottom: 30px;
+    font-size: 30px;
+ }
+
+ .specialists__down {
+     display: flex;
+     
+ }
+
+ .specialist__down__left {
+    max-width: 450px;   
+ }
+
+ .specialist__down__left p {
+     margin-bottom: 40px;
+ }
+
+ .specialist__down__left h2 {
+     margin-bottom: 10px;
+ }
+
+ .specialists__img {
+     margin-left: 170px;
+     position: relative;
+     top: -60px;
+ }

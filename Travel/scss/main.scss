@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 260px;
+}
+
+.main__right {
+    margin-top: 115px;
+    max-width: 500px;
+}
+
+.main__right h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.main__right p {
+    font-size: 17px;
+    margin-bottom: 33px;
+    color: #7D7987;
+    
+}
